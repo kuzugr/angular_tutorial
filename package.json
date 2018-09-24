@@ -7,7 +7,7 @@
   },
   "scripts": {
     "ng": "ng",
-    "start": "node server",
+    "start": "node server.js",
     "postinstall": "ng build",
     "build": "ng build",
     "test": "ng test",
