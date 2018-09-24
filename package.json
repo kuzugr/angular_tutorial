@@ -8,7 +8,7 @@
   "scripts": {
     "ng": "ng",
     "start": "node server",
-    "postinstall": "ng build -aot -prod",
+    "postinstall": "ng build --aot -prod",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
